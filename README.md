@@ -53,11 +53,16 @@ Screens designed using **Figma**.
 👉 Screenshots are stored in `/screenshots` folder.  
 (Insert link to Figma if possible.)
 
-- 📱 Home Screen
-- 📱 Filters Screen
-- 📱 Details Screen
+## Ενδεικτικές Οθόνες Εφαρμογής
 
-You can upload the 3 prototype images here or describe them briefly.
+### Οθόνη 1 – Αναζήτηση χώρων coworking  
+Η Ελένη αναζητά καταλύματα με βάση τη χώρα και βλέπει κορυφαίες επιλογές με βάση την κοινότητα και τη διαθεσιμότητα.
+
+### Οθόνη 2 – Φίλτρα συμβατότητας  
+Επιλέγει ενδιαφέροντα, κοινωνικές δραστηριότητες και ταχύτητα Wi-Fi για να λάβει τις καλύτερες προσωποποιημένες προτάσεις.
+
+### Οθόνη 3 – Πακέτο κράτησης  
+Βλέπει εικόνες χώρου και δραστηριοτήτων, mini-bios διαμενόντων, και επιλέγει πακέτο διαμονής, coworking και RSVP σε events.
 
 ---
 
