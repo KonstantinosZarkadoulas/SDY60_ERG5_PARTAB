@@ -5,6 +5,48 @@
 📅 **Submission Date**:  
 
 ---
+layout: single
+title: "Διαδραστικές Ασκήσεις - Part A"
+header: no
+categories:
+  - interactive
+tags:
+  - HCI
+  - remix
+---
+
+## Παράδειγμα 1: Αριθμομηχανή (Calculator)
+
+Οπτική και λειτουργική εξομοίωση αριθμομηχανής. Τροποποιήθηκε ώστε να εμφανίζει το αποτέλεσμα κάθε πράξης σε νέα γραμμή στη σελίδα.
+
+**Ετικέτες**: calculator, HCI  
+**Κατηγορία**: models  
+**Ημερομηνία**: May 2025
+
+<p data-height="400" data-theme-id="dark" data-slug-hash="δικό-σου-slug" data-default-tab="result" data-user="το-username-σου" class="codepen"></p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+---
+
+## Παράδειγμα 2: Button Hover Effect
+
+Κουμπί με διαφορετική συμπεριφορά στο hover και στο click. Επεκτάθηκε ώστε να αλλάζει δυναμικά μήνυμα με βάση user interaction.
+
+**Ετικέτες**: button, UI interaction  
+**Κατηγορία**: remix  
+**Ημερομηνία**: May 2025
+
+<p data-height="400" data-theme-id="dark" data-slug-hash="δεύτερο-slug" data-default-tab="result" data-user="το-username-σου" class="codepen"></p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+---
+
+## Περιγραφή
+
+Οι παραπάνω ασκήσεις εντάσσονται στο πλαίσιο του Μέρος Α της Εργασίας 5 (μάθημα SDY60) και σχεδιάστηκαν με στόχο την αλληλεπίδραση χρήστη–υπολογιστή, βασισμένες σε απλές, επεκτάσιμες τεχνικές με χρήση HTML, CSS και JavaScript.
+
+
+---
 
 ## 📌 Table of Contents
 - [Question 1 - Analysis of Relevant Applications](#question-1---analysis-of-relevant-applications)
