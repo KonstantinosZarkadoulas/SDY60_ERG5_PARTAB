@@ -83,6 +83,6 @@ All screenshots are stored in `/screenshots/`.
 - [Coliving.com](https://www.coliving.com)
 - [Outsite.co](https://www.outsite.co)
 - [Alan Dix - Human-Computer Interaction Book]
-- [Google Scholar Articles on HCI for Digital Nomads] (you will add real references here later)
+- [Google Scholar Articles on HCI for Digital Nomads] 
 
 ---
