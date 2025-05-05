@@ -1,1 +1,39 @@
+---
+layout: single
+title: "Διαδραστικές Ασκήσεις - Μέρος A"
+header: no
+categories:
+  - interactive
+tags:
+  - HCI
+  - remix
+---
+
+## Παράδειγμα 1: Αριθμομηχανή (Calculator)
+
+Οπτική και λειτουργική εξομοίωση αριθμομηχανής. Τροποποιήθηκε ώστε να εμφανίζει το αποτέλεσμα κάθε πράξης σε νέα γραμμή στη σελίδα.
+
+**Ετικέτες**: calculator, HCI  
+**Κατηγορία**: models  
+**Ημερομηνία**: May 6, 2025
+
+<iframe src="https://calculator-extend.glitch.me" width="100%" height="500px" allow="camera; microphone; fullscreen; geolocation"></iframe>
+
+---
+
+## Παράδειγμα 2: Κατάλογος Προϊόντων (Product Catalog)
+
+Διαδραστικός κατάλογος προϊόντων που επιτρέπει την προσθήκη νέων προϊόντων μέσω φόρμας. Η καταχώριση εμφανίζεται δυναμικά στη λίστα.
+
+**Ετικέτες**: form, UX  
+**Κατηγορία**: remix  
+**Ημερομηνία**: May 6, 2025
+
+<iframe src="https://product-catalog.glitch.me" width="100%" height="500px" allow="camera; microphone; fullscreen; geolocation"></iframe>
+
+---
+
+## Περιγραφή
+
+Οι παραπάνω ασκήσεις δημιουργήθηκαν στο πλαίσιο του Μέρος Α της Εργασίας 5 (μάθημα SDY60) και εντάσσονται στις θεματικές της αλληλεπίδρασης χρήστη–υπολογιστή (HCI). Περιλαμβάνουν HTML/CSS/JavaScript και φιλοξενούνται σε περιβάλλον Glitch για εύκολη ενσωμάτωση και χρήση.
 
